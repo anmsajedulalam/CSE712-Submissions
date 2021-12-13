@@ -19,7 +19,7 @@ A. N. M. Sajedul Alam 		 21366032
 
 Link to unlisted youtube video: https://youtu.be/F88v1q0s5iU
 
-Link to the Concept Map For Editing on Draw.io: 
+Link to the Concept Map For Editing on Draw.io: https://app.diagrams.net/#G1noqAGo32VerZeERB9jj26k_x56y4XLAW
 
 Link to the Concept Map PDF: https://drive.google.com/file/d/1_HJKIZD3VI3KNfqXPKz3DBCdzjBqtRA9/view?usp=sharing
 
