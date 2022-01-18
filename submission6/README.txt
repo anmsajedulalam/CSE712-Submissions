@@ -1,28 +1,30 @@
 Completed coursera course using email
 sajidcsebu@gmail.com
-https://www.coursera.org/learn/blockchain-scalability
+https://www.coursera.org/learn/python-data-processing
 
 Completed edx course using email
 sajidcsebu@gmail.com
-https://learning.edx.org/course/course-v1:BerkeleyX+CS198.2x+3T2019
+https://learning.edx.org/course/course-v1:UCx+LNG01.2ucx+3T2021
 
 Completed youtube video:
-https://youtu.be/7VbL89mKK3M
-https://youtu.be/Y6Ev8GIlbxc
-https://youtu.be/ajjOEltiZm4
-https://youtu.be/pMQzLVK39Kk
+
+https://youtu.be/YB7XXDXIusg
+https://youtu.be/tbbYU4mPrDk
+https://youtu.be/68lIfswwG2A
+https://youtu.be/05ONoGfmKvA
 
 Completed book:
-https://books.google.com.bd/books?id=5hJNDwAAQBAJ&printsec=frontcover&dq=distributed+system&hl=en&sa=X&ved=2ahUKEwj6wfLqvLv1AhXc7HMBHcRPA8oQ6AF6BAgGEAI#v=onepage&q=distributed%20system&f=false
-https://books.google.com.bd/books?id=3sWoCAAAQBAJ&printsec=frontcover&dq=distributed+system&hl=en&sa=X&redir_esc=y#v=onepage&q=distributed%20system&f=false
+
+https://books.google.com.bd/books?id=Ok5NEAAAQBAJ&printsec=frontcover&dq=nlp&hl=en&sa=X&redir_esc=y#v=onepage&q=nlp&f=false
+https://books.google.com.bd/books?id=sJw6zQEACAAJ&dq=nlp&hl=en&sa=X&redir_esc=y
 
 Did project:
 
-An Architectural Approach to Creating a Cloud Application for Developing Microservices
+Comparison of Multiple Machine Learning Approaches and Sentiment Analysis in Detection of Spam on Different Types of Data
 
 Did something else:
 
-Comparison of Multiple Machine Learning Approaches and Sentiment Analysis in Detection of Spam on Different Types of Data
+An Architectural Approach to Creating a Cloud Application for Developing Microservices
 
 Was active in slack:
 
