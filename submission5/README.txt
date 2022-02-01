@@ -5,7 +5,7 @@ Conference / Paper submission login URL:
 https://easychair.org/account/signin?l=Kf0aLUXYFD5HV9SAHyfRc5#
 
 Paper title:
-A Survey Credit Sentiment Score Prediction
+A Survey: Credit Sentiment Score Prediction
 
 Paper link:
 
