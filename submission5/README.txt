@@ -8,7 +8,7 @@ Paper title:
 A Survey: Credit Sentiment Score Prediction
 
 Paper link:
-
+https://tinyurl.com/yc47mwxn
 
 Paper submission date (to workshop/conference):
 01 February 2022, 6:51 PM BDT
