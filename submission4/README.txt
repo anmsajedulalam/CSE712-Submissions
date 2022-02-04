@@ -5,7 +5,7 @@ Conference / Paper submission login URL:
 https://easychair.org/account/signin?l=Kf0aLUXYFD5HV9SAHyfRc5#
 
 Paper title:
-Comparison of Multiple Machine Learning Approaches and Sentiment Analysis in Detection of Spam on Different Type of Data
+Comparison of Multiple Machine Learning Approaches and Sentiment Analysis in Detection of Spam
 
 Paper link:
 https://tinyurl.com/2p8s3nub
