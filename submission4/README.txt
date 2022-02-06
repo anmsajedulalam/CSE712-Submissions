@@ -8,7 +8,7 @@ Paper title:
 Comparison of Multiple Machine Learning Approaches and Sentiment Analysis in Detection of Spam
 
 Paper link:
-https://tinyurl.com/yu6mdztn
+https://tinyurl.com/458fw9wp
 
 Paper submission date (to workshop/conference):
 17 January 2022, 5:11 am BDT
